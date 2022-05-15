@@ -1,0 +1,3 @@
+# MACD indicator
+The project for Numerical Methods at Gdansk University of Technology. MACD (Moving Average Convergence / Divergence)  indicator is one of the most popular technical analysis indicators that are used in stock market analysis. <br>
+The main goal of the project was to implement the MACD indicator and then to evaluate its usefulness in technical analysis on the basis of the generated plots and to propose an algorithm that would automatically decide to buy / sell stocks based on the MACD. The input data for calculating the MACD is a vector of 1000 samples - historical values of the WIG20 index (stored in .csv file).
